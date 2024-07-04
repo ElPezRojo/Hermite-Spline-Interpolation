@@ -1,0 +1,17 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  vectorObj.cxx
+  vector.cxx
+  Timer.cpp
+  Quaternion.cxx
+  Picker.cpp
+  noise.cpp
+  myMath.cxx
+  image.cpp
+  GLutilities.cxx
+  FrameSaver.cpp
+  CoordSystem.cxx
+  BallMath.cxx
+  BallAux.cxx
+  Ball.cxx
+  Generating Code...
+  util.vcxproj -> C:\Users\Bette\CSC473\A1_Clean\lib\util.lib
